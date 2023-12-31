@@ -21,8 +21,10 @@
 
 - The components of the analysis include: Data preparation,Feature selection and Engineering, Model Development, Evaluation and Validation.
 
-** The Data**
+**The Data**
 
 - For this project, we use the King County House Sales dataset, which can be found in kc_house_data.csv in the data folder in this GitHub repository.
+
+**
 
   
